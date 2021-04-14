@@ -1,0 +1,8 @@
+name: CatSeedLoginGUI
+version: @version@
+main: cc.baka9.catseedlogingui.PluginMain
+authors: [CatSeed]
+depend:
+  - CatSeedLogin
+  - VexView
+
